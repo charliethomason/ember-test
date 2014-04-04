@@ -1,1 +1,7 @@
-App.UserController = Ember.ObjectController.extend();
+App.UserController = Ember.ObjectController.extend({
+	actions: {
+		edit: function(){
+			this.transitionToRoute('user.edit');
+		}
+	}
+});

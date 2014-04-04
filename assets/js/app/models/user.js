@@ -27,4 +27,11 @@ App.User.FIXTURES = [{
 	bio: 'Presentation Layer Architect',
 	avatarUrl: 'https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/000/0b7/066/1c1adbb.jpg',
 	creationDate: 'Wed, 2 Apr 2014 12:00:00 GMT'
+}, {
+	id: 4,
+	name: 'Whitney Gardner',
+	email: 'whitney.gardner@razorfish.com',
+	bio: 'Associate Presentation Layer Architect',
+	avatarUrl: 'https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/000/16c/34d/0e907da.jpg',
+	creationDate: 'Thur, 3 Apr 2014 12:00:00 GMT'
 }];
